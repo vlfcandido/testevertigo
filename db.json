@@ -6,7 +6,7 @@
       "cpf": "09852589938"
     }
   ],
-"produtos": [
+	"produtos": [
     {
       "id": 1,
       "nome": "Kong",
@@ -16,7 +16,7 @@
       "id": 2,
       "nome": "BLiP",
       "descricao": "A blip é uma parceira da Vertigo"
-    },
+    }
   ],
   "empresa": {
     "name": "Teste Vertigo!!",
