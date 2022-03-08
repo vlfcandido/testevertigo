@@ -1,18 +1,11 @@
 {
-  "cursos": [
-    { "id": 1, "titulo": "Javascript", "url": "https://www.codeprestige.com.br/cursos/es6" },
-    { "id": 2, "titulo": "Java", "url": "https://www.udemy.com/truques-vscode/" },
-    { "id": 3, "titulo": "Spring boot", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
-    { "id": 4, "titulo": "React", "url": "https://www.udemy.com/react-16/" }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
-  "alunos": [
-    { "id": 1, "nome": "Marcela da Silva", "cpf": "09852589938" },
-    { "id": 2, "nome": "José Luiz Felipe", "cpf": "11122233344" },
-    { "id": 3, "nome": "Paulo Rogério", "cpf": "55566677788" },
-    { "id": 4, "nome": "Felipe da Cunha", "cpf": "22233344455" },
-    { "id": 5, "nome": "Luiza Cardoso Pereira","cpf": "11111111111" }
-  ],
-  "empresa": {
-    "nome": "Vertigo"
+  "profile": {
+    "name": "typicode"
   }
 }
