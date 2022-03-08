@@ -10,7 +10,7 @@
     { "id": 2, "nome": "José Luiz Felipe", "cpf": "11122233344" },
     { "id": 3, "nome": "Paulo Rogério", "cpf": "55566677788" },
     { "id": 4, "nome": "Felipe da Cunha", "cpf": "22233344455" },
-    { "id": 5, "nome": "Luiza Cardoso Pereira" "cpf": "11111111111" }
+    { "id": 5, "nome": "Luiza Cardoso Pereira","cpf": "11111111111" }
   ],
   "empresa": {
     "nome": "Vertigo"
