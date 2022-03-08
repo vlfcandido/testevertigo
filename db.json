@@ -1,0 +1,25 @@
+{
+   "usuarios":[
+      {
+         "id":1,
+         "nome":"Vinicius",
+         "cpf":"09852589938"
+      }
+   ],
+   "produtos":[
+      {
+         "id":1,
+         "nome":"Kong",
+         "descricao":"O kong é um produto da vertigo e serve para tal coisa"
+      },
+      {
+         "id":2,
+         "nome":"BLiP",
+         "descricao":"A blip é uma parceira da Vertigo"
+      }
+   ],
+   "empresa":{
+      "name":"Teste Vertigo!!",
+      "textoSaudacao":"Bem vindo ao chatbot da ."
+   }
+}
