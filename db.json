@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "usuarios": [
     {
       "id": 1,
-      "title": "hello"
+      "nome": "Vinicius",
+      "cpf": "09852589938",
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "empresa": {
+    "name": "Teste Vertigo!!",
+    "textoSaudacao": "Bem vindo ao chatbot da Vertigo, ficamos muito felizes de ter você por aqui"
   }
 }
