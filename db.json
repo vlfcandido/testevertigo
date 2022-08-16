@@ -6,20 +6,20 @@
       "cpf": "09852589938"
     }
   ],
-  "produtos": [
+  "consultas": [
     {
       "id": 1,
-      "nome": "Sabão",
-      "descricao": "O sabão é de lavar louça"
+      "nomeAnimal": "Prin",
+      "descricao": "Consulta pra ver a tremedeira"
     },
     {
       "id": 2,
-      "nome": "Bolacha",
-      "descricao": "A bolacha é para comer"
+      "nomeAnimal": "Ki",
+      "descricao": "A blip é uma parceira da Vertigo"
     }
   ],
   "empresa": {
-    "name": "Empresa da alana!",
-    "textoSaudacao": "Bem vindo a nossa empresa!"
+    "name": "Teste Vertigo!!",
+    "textoSaudacao": "Bem vindo ao chatbot da ."
   }
 }
