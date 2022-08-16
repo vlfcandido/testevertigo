@@ -1,25 +1,25 @@
 {
-   "usuarios":[
-      {
-         "id":1,
-         "nome":"Vinicius",
-         "cpf":"09852589938"
-      }
-   ],
-   "produtos":[
-      {
-         "id":1,
-         "nome":"Kong",
-         "descricao":"O kong é um produto da vertigo e serve para tal coisa"
-      },
-      {
-         "id":2,
-         "nome":"BLiP",
-         "descricao":"A blip é uma parceira da Vertigo"
-      }
-   ],
-   "empresa":{
-      "name":"Teste Vertigo!!",
-      "textoSaudacao":"Bem vindo ao chatbot da ."
-   }
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Vinicius",
+      "cpf": "09852589938"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Sabão",
+      "descricao": "O sabão é de lavar louça"
+    },
+    {
+      "id": 2,
+      "nome": "Bolacha",
+      "descricao": "A bolacha é para comer"
+    }
+  ],
+  "empresa": {
+    "name": "Empresa da alana!",
+    "textoSaudacao": "Bem vindo a nossa empresa!"
+  }
 }
