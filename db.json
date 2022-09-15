@@ -6,22 +6,20 @@
          "cpf":"09852589938"
       }
    ],
-   "consultas":[
+   "produtos":[
       {
          "id":1,
-         "nomeAnimal":"Prin",
-         "descricao":"Consulta pra ver a tremedeira",
-         "dia":"16/08/2022"
+         "nome":"Kong",
+         "descricao":"O Kong Gateway é uma das melhores ferramentas de gerenciamento open source disponíveis no mercado de tecnologia empresarial. Ele é um gateway de API que pode ser executado em qualquer plataforma e devido a seu código aberto permite implantação universal."
       },
       {
          "id":2,
-         "nomeAnimal":"Ki",
-         "descricao":"A blip é uma parceira da Vertigo",
-         "dia":"17/08/2022"
+         "nome":"BLiP",
+         "descricao":"Blip é uma plataforma de criação, publicação e gestão de chatbots. Desenvolvida por Take Blip, nossa ferramenta integra diferentes canais de mensageria, como WhatsApp, Instagram e Messenger, apps e sites da empresa, além de CRMs, Bancos de Dados e quaisquer outras ferramentas que possibilitem integração via API."
       }
    ],
    "empresa":{
-      "name":"Teste Vertigo!!",
+      "name":"Empresa do KT da Ingrid!",
       "textoSaudacao":"Bem vindo ao chatbot da ."
    }
 }
