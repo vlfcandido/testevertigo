@@ -4,6 +4,11 @@
          "id":1,
          "nome":"Vinicius",
          "cpf":"09852589938"
+      },
+      {
+         "id":2,
+         "nome":"Ingrid",
+         "cpf":"11268455903"
       }
    ],
    "produtos":[
